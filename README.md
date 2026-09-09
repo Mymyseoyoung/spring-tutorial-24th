@@ -3,6 +3,9 @@
 ![image (12).png](image%20%2812%29.png)
 ![image (13).png](image%20%2813%29.png)
 
+
+
+
 # 2. spring이 지원하는 기술들
 
 ### 1 . POJO 란?
@@ -108,7 +111,7 @@ public class OrderServiceBean implements SessionBean {
 
 ### 2. Spring 삼각형
 
-![image.png](attachment\:b3becc1d-eee1-4717-ab4e-4a5ab8e9dd7f\:image.png)
+![image (14).png](image%20%2814%29.png)
 
 **Spring이 POJO 개발을 가능하게 만드는 세 가지 핵심 기술**
 
@@ -698,6 +701,10 @@ JDBC / JPA / Hibernate에 맞는 실제 처리
 - 특정 기술에 대한 의존성이 낮아진다.
 - 코드를 일관된 방식으로 작성할 수 있다.
 
+
+
+
+
 # 3. Spring Bean
 
 #### 1. 스프링 빈 이란 ?
@@ -1102,6 +1109,9 @@ public PaymentManager(
 | `@Qualifier`     | 사용할 Bean을 직접 지정    |
 | `@Primary`       | 기본으로 사용할 Bean 지정   |
 | `List<T>`        | 같은 타입의 모든 Bean 주입  |
+
+
+
 
 # 4. Spring MVC
 
