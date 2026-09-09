@@ -1,10 +1,9 @@
 # 1. spring-tutorial-24th
 
-![image.png](attachment:6caccc9e-9409-4233-b9f0-9deca044ae7b\:image.png)
+![image (12).png](image%20%2812%29.png)
+![image (13).png](image%20%2813%29.png)
 
-![image.png](attachment:24c454d2-fb10-49fb-b5ef-6198ba53e021\:image.png)
-
-## 2. spring이 지원하는 기술들
+# 2. spring이 지원하는 기술들
 
 ### 1 . POJO 란?
 
@@ -699,7 +698,7 @@ JDBC / JPA / Hibernate에 맞는 실제 처리
 - 특정 기술에 대한 의존성이 낮아진다.
 - 코드를 일관된 방식으로 작성할 수 있다.
 
-### 3. Spring Bean
+# 3. Spring Bean
 
 #### 1. 스프링 빈 이란 ?
 
@@ -1104,7 +1103,7 @@ public PaymentManager(
 | `@Primary`       | 기본으로 사용할 Bean 지정   |
 | `List<T>`        | 같은 타입의 모든 Bean 주입  |
 
-### 4. Spring MVC
+# 4. Spring MVC
 
 #### 1. MVC 패턴과 Spring MVC
 
